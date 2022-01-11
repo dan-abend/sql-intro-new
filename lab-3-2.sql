@@ -43,4 +43,3 @@ SELECT name, avg(wins)
 FROM teams
 WHERE year>=2000
 GROUP BY name
-ORDER BY name
